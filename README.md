@@ -5,9 +5,10 @@ Estudo de estilização com CSS em React, a fim de entender a criação de um co
 
 
 Quando o Botão "Clique Aqui!" for acionado, ele irá através de uma função handleOnClick e com um console.log, e com a propriedade "OnClick" sendo acionada também já no componente Botao, exibir uma mensagem no console: "Botão 1 Clicado!":
-<img width="640" height="22" alt="Screenshot 2025-09-26 044709" src="https://github.com/user-attachments/assets/7bf1e52d-3d3f-46d4-9cc0-008caa10e34c" />
+<img width="633" height="21" alt="Screenshot 2025-09-26 044700" src="https://github.com/user-attachments/assets/494d334c-25f7-417b-afe1-7e00622a6cb9" />
 
 A mesma estrutura está setada para o segundo Botão "Ou Aqui" for acionado. Veja:
-<img width="633" height="21" alt="Screenshot 2025-09-26 044700" src="https://github.com/user-attachments/assets/494d334c-25f7-417b-afe1-7e00622a6cb9" />
+
+<img width="640" height="22" alt="Screenshot 2025-09-26 044709" src="https://github.com/user-attachments/assets/7bf1e52d-3d3f-46d4-9cc0-008caa10e34c" />
 
 
