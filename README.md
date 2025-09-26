@@ -11,6 +11,9 @@ Criação dos Componentes Estilizáveis:
 
 Função Responsável por renderizar os componentes na Tela:
 
+<img width="757" height="468" alt="função responsável por renderizar os componentes na tela" src="https://github.com/user-attachments/assets/d6db7205-1df5-4ddb-b6b3-137d4ab8afd6" />
+
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
