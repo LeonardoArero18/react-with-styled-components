@@ -1,6 +1,8 @@
 # React with Styled Components
 
 Estudo de estilização com CSS em React, a fim de entender a criação de um componente estilizável para necessidades de renderização dinâmica.
+
+Renderização dos componentes na tela:
 <img width="213" height="67" alt="Screenshot 2025-09-26 044624" src="https://github.com/user-attachments/assets/257caac1-b93e-4459-8a44-4c9b43904a17" />
 
 
